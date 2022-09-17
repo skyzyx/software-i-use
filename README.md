@@ -2,11 +2,21 @@
 
 macOS is my primary OS, but I also use Linux on my web servers.
 
+## AWS Cloud
+
+* [aws-okta](https://github.com/fiveai/aws-okta) — Authenticate with AWS using your Okta session.
+* [aws-sam-cli](https://github.com/aws/aws-sam-cli) — AWS’s approach to the serverless model.
+* [aws-vault](https://github.com/99designs/aws-vault) — Keep your AWS credentials encrypted. Pass them to software _other than_ the AWS CLI.
+* [awscli](https://github.com/aws/aws-cli) — The AWS command line interface.
+* [cfn-lint](https://github.com/aws-cloudformation/cfn-lint) — Linter for CloudFormation templates.
+* [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) — Selectively destroy the contents of an AWS account.
+
 ## Development
 
 * [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) — Lets you open asset catalog files (`.car`) in application bundles, and view the images that they contain.
 * [Balthisar Tidy](http://www.balthisar.com/software/tidy/) — HTML Tidy.
 * [Charles](https://www.charlesproxy.com) — HTTP proxy that enables viewing all HTTPS traffic between their machine and the Internet.
+* [container-diff](https://github.com/GoogleContainerTools/container-diff) — View the differences between two Docker image tags.
 * [Cyberduck](https://cyberduck.io) — FTP, S3, CloudFront, and Google Storage client.
 * [Dash](https://kapeli.com/dash) — Searchable, offline documentation.
 * [ImageOptim](https://imageoptim.com/mac) — Compress images without losing quality.
@@ -30,6 +40,7 @@ macOS is my primary OS, but I also use Linux on my web servers.
 * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) — Vector image editing.
 * [Affinity Photo](https://affinity.serif.com/en-gb/photo/) — Bitmap photo editing.
 * [Affinity Publisher](https://affinity.serif.com/en-gb/publisher/) — Desktop publishing.
+* [exiftool](https://exiftool.org) — Read EXIF metadata from images.
 * [Pixelmator Pro](https://www.pixelmator.com/pro/) — Bitmap image editor. Better than Photoshop.
 * [Sketch](https://www.sketch.com) — Vector image editing.
 * [Skitch](https://evernote.com/products/skitch) — Add circles and arrows to clarify your screenshots and images.
@@ -51,11 +62,17 @@ macOS is my primary OS, but I also use Linux on my web servers.
 ## Productivity
 
 * [Alfred](https://www.alfredapp.com) — More powerful Spotlight replacement.
+* [asciinema](https://asciinema.org) — Record your terminal session to share with others.
+* [asdf](https://asdf-vm.com) — Install specific versions of binaries in your project.
 * [Evernote](https://evernote.com/download) + [Evernote Web Clipper](https://evernote.com/features/webclipper) — Keep track of links, clips, and PDFs. Enables my paperless office.
 * [Fantastical](https://flexibits.com/fantastical) — More powerful Calendar replacement.
-* [iA Writer](https://ia.net/writer) — No frills writing tool, optimized for Markdown. Learn how to write better.
-* [Marked](https://marked2app.com) — Preview your Markdown files. Export as HTML, PDF, etc.
 * [Things](https://culturedcode.com/things/) — A focused _Getting Things Done_ (GTD) app with cloud syncing.
+
+## Shell
+
+* [bash](https://formulae.brew.sh/formula/bash) — A the latest release of the popular terminal shell.
+* [direnv](https://direnv.net) — Execute actions when entering or leaving a directory.
+* [exa](https://the.exa.website) — More powerful `ls` replacement.
 
 ## Torrents
 
@@ -89,6 +106,12 @@ macOS is my primary OS, but I also use Linux on my web servers.
 * [Tabs to Links](https://tabstolinks.com) — Save your Safari tabs as a list of links.
 * [Tweetbot](https://tapbots.com/tweetbot/mac/) — A better Twitter client.
 
+## Writing
+
+* [cmark-gfm](https://github.com/github/cmark-gfm) — GitHub-Flavored Markdown built on the Commonmark engine.
+* [iA Writer](https://ia.net/writer) — No frills writing tool, optimized for Markdown. Learn how to write better.
+* [Marked](https://marked2app.com) — Preview your Markdown files. Export as HTML, PDF, etc.
+
 ## System Utilities
 
 * [A Better Finder Rename](http://www.publicspace.net/ABetterFinderRename/index.html) — When Finder’s rename functionality doesn’t cut it.
@@ -112,6 +135,7 @@ macOS is my primary OS, but I also use Linux on my web servers.
 * [OpenIn](https://loshadki.app/openin/) — Double-click a file, _then_ choose which application it should open in.
 * [Pacifist](https://www.charlessoft.com) — Look inside installer packages.
 * [Pastebot](https://tapbots.com/pastebot/) — Sync your clipboard history across machines.
+* [pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid) — Unlock your GPG key with Touch ID.
 * [ScreenFlow](https://www.telestream.net/screenflow/overview.htm) — Advanced screen recording software.
 * [Silicon Info](https://github.com/billycastelli/Silicon-Info) — See which CPU architecture the current app is compiled for, at-a-glance.
 * [Splashtop](https://www.splashtop.com) — Remote access to your Mac. Clients for macOS and iOS.
