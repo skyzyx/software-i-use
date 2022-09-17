@@ -9,7 +9,8 @@ macOS is my primary OS, but I also use Linux on my web servers.
 * [Charles](https://www.charlesproxy.com) — HTTP proxy that enables viewing all HTTPS traffic between their machine and the Internet.
 * [Cyberduck](https://cyberduck.io) — FTP, S3, CloudFront, and Google Storage client.
 * [Dash](https://kapeli.com/dash) — Searchable, offline documentation.
-* [ImageOptim](https://imageoptim.com/mac) — Compress images without losing quality.* [Insomnia](https://insomnia.rest) — HTTP client. More powerful than Postman. Better maintained than Paw.
+* [ImageOptim](https://imageoptim.com/mac) — Compress images without losing quality.
+* [Insomnia](https://insomnia.rest) — HTTP client. More powerful than Postman. Better maintained than Paw.
 * [Kaleidoscope](https://kaleidoscope.app) — Image and text diffing.
 * [MySQLWorkbench](https://www.mysql.com/products/workbench/) — For when other MySQL clients aren't powerful enough.
 * [OhMyStar](https://apps.apple.com/us/app/ohmystar/id1218642292?mt=12) — Keep track of GitHub projects you've starred.
