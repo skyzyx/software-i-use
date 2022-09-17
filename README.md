@@ -4,10 +4,12 @@ macOS is my primary OS, but I also use Linux on my web servers.
 
 ## Development
 
+* [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) — Lets you open asset catalog files (`.car`) in application bundles, and view the images that they contain.
 * [Balthisar Tidy](http://www.balthisar.com/software/tidy/) — HTML Tidy.
+* [Charles](https://www.charlesproxy.com) — HTTP proxy that enables viewing all HTTPS traffic between their machine and the Internet.
 * [Cyberduck](https://cyberduck.io) — FTP, S3, CloudFront, and Google Storage client.
 * [Dash](https://kapeli.com/dash) — Searchable, offline documentation.
-* [Insomnia](https://insomnia.rest) — HTTP client. More powerful than Postman. Better maintained than Paw.
+* [ImageOptim](https://imageoptim.com/mac) — Compress images without losing quality.* [Insomnia](https://insomnia.rest) — HTTP client. More powerful than Postman. Better maintained than Paw.
 * [Kaleidoscope](https://kaleidoscope.app) — Image and text diffing.
 * [MySQLWorkbench](https://www.mysql.com/products/workbench/) — For when other MySQL clients aren't powerful enough.
 * [OhMyStar](https://apps.apple.com/us/app/ohmystar/id1218642292?mt=12) — Keep track of GitHub projects you've starred.
@@ -98,6 +100,8 @@ macOS is my primary OS, but I also use Linux on my web servers.
 * [GPG Keychain](https://gpgtools.org) — Manage your GPG keys.
 * [Hazel](https://www.noodlesoft.com) — Run automated actions on folders.
 * [HomeCam](https://homecam.app) — Run as iPad app on Apple Silicon Macs. Keep an eye on all of your HomeKit cameras.
+* [HyperDock](https://bahoom.com/hyperdock) — Adds application winow popups to your Dock.
+* [iStumbler](https://istumbler.net) — See Wi-Fi networks, Bluetooth devices, Bonjour services, and spectrum usage in real-time.
 * [iTerm](https://iterm2.com) — More powerful Terminal replacement.
 * [Keybase](https://keybase.io) — GPG and encryption for the rest of us. Under-maintained since aquisition by Zoom.
 * [Keyboard Maestro](https://www.keyboardmaestro.com) — Full-scale automation of your Mac.
@@ -105,8 +109,10 @@ macOS is my primary OS, but I also use Linux on my web servers.
 * [Micro Snitch](https://www.obdev.at/products/microsnitch/) — Get notified when your camera or microphone turn-on.
 * [One Switch](https://fireball.studio/oneswitch/) — Toggles for things that Apple didn't put into Control Center.
 * [OpenIn](https://loshadki.app/openin/) — Double-click a file, _then_ choose which application it should open in.
+* [Pacifist](https://www.charlessoft.com) — Look inside installer packages.
 * [Pastebot](https://tapbots.com/pastebot/) — Sync your clipboard history across machines.
 * [ScreenFlow](https://www.telestream.net/screenflow/overview.htm) — Advanced screen recording software.
 * [Silicon Info](https://github.com/billycastelli/Silicon-Info) — See which CPU architecture the current app is compiled for, at-a-glance.
 * [Splashtop](https://www.splashtop.com) — Remote access to your Mac. Clients for macOS and iOS.
+* [SuperDuper!](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) — Full-disk "smart" backups. The perfect companion (or replacement) to Time Machine.
 * [TextExpander](https://textexpander.com) — More powerful Keyboard Shortcuts replacement.
